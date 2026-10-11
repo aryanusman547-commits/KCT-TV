@@ -1,0 +1,41 @@
+#EXTM3U
+
+#EXTINF:0 tvg-id="Cartoon Network PK HD" group-title="PK | KIDS",Cartoon Network PK HD
+https://tapmadlive.akamaized.net/tapmadold/cartoon.smil/chunklist_w1110625398_b748000_slEng.m3u8
+
+#EXTINF:0 tvg-id="Cartoon Network PK Lite" group-title="PK | KIDS",Cartoon Network PK Lite
+https://cdn5.mjunoon.tv:8087/web/cartoon-network-87/live/87H/chunks.m3u8
+
+#EXTINF:0 tvg-id="Planet Fun" group-title="PK | KIDS",Planet Fun
+https://tapmadlive.akamaized.net/tapmadold/planetfun.smil/chunklist_w477149613_b748000_slEng.m3u8
+
+#EXTINF:0 tvg-id="LTN Family" group-title="PK | KIDS",LTN Family
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/LTNFamily-abr/playlist.m3u8
+
+#EXTINF:0 tvg-id="Baby TV" group-title="PK | KIDS",Baby TV
+https://cdn05khi.tamashaweb.com:8087/jazzauth/BabyTV-abr/playlist.m3u8
+
+#EXTINF:0 tvg-id="Cartoon Network HD" group-title="IN | KIDS",Cartoon Network HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=292935
+
+
+#EXTINF:0 tvg-id="Cartoon Network SD" group-title="IN | KIDS",Cartoon Network SD
+https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
+
+#EXTINF:0 tvg-id="Pogo" group-title="IN | KIDS",Pogo
+http://103.151.60.162:2122/play/a02v/index.m3u8
+
+#EXTINF:0 tvg-id="Discovery Kids" group-title="IN | KIDS",Discovery Kids
+https://tapmadlive.akamaized.net/tapmadold/discoverykids.smil/chunklist_w968334163_b298000_slENG.m3u8
+
+#EXTINF:0 tvg-id="Sony Yay" group-title="IN | KIDS",Sony Yay
+http://103.185.24.134:3001/SONY-YAY/index.m3u8
+
+#EXTINF:0 tvg-id="Disney Junior" group-title="IN | KIDS",Disney Junior
+http://103.151.60.162:2122/play/a016/index.m3u8?hls
+
+EXTINF:0 tvg-id="Super Hungama" group-title="IN | KIDS",Super Hungama 
+http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8
+
+EXTINF:0 tvg-id="ETV BAL Bharat" group-title="IN | KIDS",ETV BAL Bharat 
+http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8
